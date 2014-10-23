@@ -1,0 +1,5 @@
+<snippet>  
+<content><![CDATA[@extend %circle;$1]]></content>  
+<tabTrigger>circle</tabTrigger>
+<scope>source.scss</scope>  
+</snippet>  

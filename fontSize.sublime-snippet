@@ -1,0 +1,5 @@
+<snippet>  
+<content><![CDATA[@include fontSize($1);]]></content>  
+<tabTrigger>fontSize</tabTrigger>
+<scope>source.scss</scope>  
+</snippet>  

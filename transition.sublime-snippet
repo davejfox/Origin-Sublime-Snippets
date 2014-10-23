@@ -1,0 +1,5 @@
+<snippet>  
+<content><![CDATA[@include trans($1);]]></content>  
+<tabTrigger>trans</tabTrigger>
+<scope>source.scss</scope>  
+</snippet>  
